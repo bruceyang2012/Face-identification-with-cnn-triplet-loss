@@ -12,5 +12,8 @@ This is a implementation of cnn+triplet-loss for face identification written by 
 ## train
 Follow [face_train.ipynb](https://github.com/bruceyang2012/Face-identification-with-cnn-triplet-loss/blob/master/face_train.ipynb) step by step. You can change the parameters for better performance.
 
+## to do
+compare with center loss.
+
 ## References
 [meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe)
