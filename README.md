@@ -6,7 +6,7 @@ This is a implementation of cnn+triplet-loss for face identification written by 
 
 ## prepare data
 1. Download [caltech faces](http://www.vision.caltech.edu/Image_Datasets/faces/faces.tar) from Official Website , and put it into face_data folder in [organize_data.py](https://github.com/bruceyang2012/Face-identification-with-cnn-triplet-loss/blob/master/utils/organize_data.py).
-2. Run organize_data.py(https://github.com/bruceyang2012/Face-identification-with-cnn-triplet-loss/blob/master/utils/organize_data.py) to generate train, test, dev data.
+2. Run [organize_data.py](https://github.com/bruceyang2012/Face-identification-with-cnn-triplet-loss/blob/master/utils/organize_data.py) to generate train, test, dev data.
 3. Run [load_data.py](https://github.com/bruceyang2012/Face-identification-with-cnn-triplet-loss/blob/master/utils/load_data.py) to generate train_x.npy, train_y.npy and so on.
 
 ## train
